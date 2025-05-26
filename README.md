@@ -11,10 +11,9 @@
 
 ## Installation & Running
 
-1. **Clone or download** this repository to your local machine.
-2. Locate the `setup.exe` file at the root of the project.
-3. **Double-click** `setup.exe` to run the installer.
-4. Follow the on-screen prompts to install the application.
+1. Download the `setup.exe` file at the root of the project.
+2. **Double-click** `setup.exe` to run the installer.
+3. Follow the on-screen prompts to install the application.
 
 ## Security Warning
 
