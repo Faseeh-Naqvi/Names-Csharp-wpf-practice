@@ -36,5 +36,3 @@
 * If the application fails to start, ensure the .NET runtime is installed and the installer completed without interruption.
 
 ---
-
-**Enjoy practicing WPF C# development!**
